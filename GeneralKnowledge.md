@@ -1,10 +1,6 @@
 ## Studying for a Tech Interview Sucks, so Here's a Cheat Sheet to Help
 
-This list is meant to be a both a quick guide and reference for further research into these topics.  
-It's basically a summary of that comp sci course you never took or forgot about, so there's no way 
-it can cover everything in depth.  It also will be available as a 
-[gist](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b) on Github for everyone to edit and add to.
-
+[GoTo](#Basic-Types-of-Algorithms)
 ## Data Structure Basics
 
 ### **Array**
@@ -72,7 +68,7 @@ it can cover everything in depth.  It also will be available as a
 - Insertion:        Hash Tables: O(1)  
 
 
-### **Binary Tree**
+### Binary Tree
 #### Definition: 
 - Is a tree like data structure where every node has at most two children.
   - There is one left and right child node.
