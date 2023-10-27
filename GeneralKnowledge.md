@@ -1,6 +1,13 @@
 ## Studying for a Tech Interview Sucks, so Here's a Cheat Sheet to Help
 
-[GoTo](#Basic-Types-of-Algorithms)
+
+### Table of Contents
+
+- [Data Structure Basics](#Data-Structure-Basics)
+- [Search Basics](#Search-Basics)
+- [Efficient Sorting Basics](#Efficient-Sorting-Basics)
+- [Basic Types of Algorithms](#Basic-Types-of-Algorithms)
+
 ## Data Structure Basics
 
 ### **Array**
