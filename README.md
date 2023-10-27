@@ -5,4 +5,5 @@ Here I want to store all basic knowledge that I have, am and will be gathering a
 What have I collected so far: 
 
 - [General Knowledge](GeneralKnowledge.md)
+- [Python Knowledge](PythonKnowledge.md)
 
