@@ -1,5 +1,4 @@
-## Studying for a Tech Interview Sucks, so Here's a Cheat Sheet to Help
-
+# Cheat Sheet for Tech Intervies
 
 ### Table of Contents
 
